@@ -8,5 +8,5 @@
 - 🚀 Skilled in: Flutter/Dart, Java, C#, .NET, Angular, Node.js, TypeScript, JavaScript & PostgreSQL  
 - 🤝 Open to collaborations & new opportunities  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>](https://es.linkedin.com/in/danielalonsomendez) [LinkedIn](https://es.linkedin.com/in/danielalonsomendez) · [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18"/>](mailto:dani@danialonso.dev) [Email](mailto:dani@danialonso.dev)
 
-<img src="TOP_LANGUAGES.svg" width="34%" />
+<img src="TOP_LANGUAGES.svg" />
 
