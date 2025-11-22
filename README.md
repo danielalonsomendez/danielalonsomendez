@@ -9,4 +9,5 @@
 - 🤝 Open to collaborations & new opportunities  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>](https://es.linkedin.com/in/danielalonsomendez) [LinkedIn](https://es.linkedin.com/in/danielalonsomendez) · [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18"/>](mailto:dani@danialonso.dev) [Email](mailto:dani@danialonso.dev)
 
 <img src="TOP_LANGUAGES.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielalonsomendez&theme=radical" width="48%" />
 
